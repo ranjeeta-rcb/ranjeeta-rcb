@@ -21,6 +21,7 @@ I enjoy learning new technologies and have worked on academic and internship pro
 • CSS  
 • JavaScript  
 • ReactJS  
+• NextJs
 
 **Databases**    
 • MySQL  
