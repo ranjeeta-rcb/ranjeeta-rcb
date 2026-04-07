@@ -7,7 +7,7 @@ I enjoy learning new technologies and have worked on academic and internship pro
 • 🔭 I’m currently working on improving my web development skills by building small projects using Java, Spring Boot, HTML, CSS, and JavaScript.        
 • 🌱 I’m currently learning Java, Spring Boot, PL/SQL, and strengthening my problem-solving skills.                                        
 • 💬 Ask me about Java, web development basics, HTML, CSS, JavaScript, and beginner-level Spring Boot projects.              
-• 📫 How to reach me: desairanjeeta123@gmail.com | https://www.linkedin.com/in/ranjeeta-chikkaparappa
+• 📫 How to reach me: desairanjeeta123@gmail.com | https://www.linkedin.com/in/ranjeeta-chikkaparappa |  https://frolicking-blancmange-21a927.netlify.app/
 
 ### 🛠️ Skills & Technologies
 
